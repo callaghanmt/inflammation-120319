@@ -7,7 +7,3 @@ Samit is a Statistician.
 
 We will need to determine who is responsible for what in this project.
 
-It's likely we will need a Research Software Engineer with Python or R programming skills 
-too. They will also need to be familiar with matplotlib and ggplot.
-
-Version control skills would also be useful, as would the ability to use Github.
